@@ -31,6 +31,7 @@ for turtle in turtles:
     colour_pos += 1
     y_pos += 1
 
+# start race
 if user_bet:
     is_race_on = True
 
